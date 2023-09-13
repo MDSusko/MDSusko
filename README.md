@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MDSusko
 - 👀 I’m interested in Python, C++, Unreal Engine, Blender, and Game Dev! Outside of Game Dev: Fitness, Lego, Nature, Snowboarding and Dog life!
-- 🌱 I’m currently learning C++ and at Red Rocks Community COllege for an AAS in Game Dev (Coding and Art!) I also have a BS in Business Admin from IU- Northwest!
+- 🌱 I’m currently learning C++ and at Red Rocks Community College for an AAS in Game Dev (Coding and Art!) I also have a BS in Business Admin from IU- Northwest!
 - 💞️ I’m looking to collaborate on anything that will help further my skill;s! 
 - 📫 How to reach me plurfxla@gmail.com
 
